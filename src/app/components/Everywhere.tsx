@@ -4,7 +4,7 @@ export default function Everywhere() {
     <div className=" bg-[#043873] text-white  w-[1921px] h-[574px] py-[140] px-[220px] top-[4080px] ml-[1px] flex items-center ">
       <div className="w-[1481px] h-[294px] gap-[60px] flex flex-col items-center justify-center">
         <div className="flex flex-col gap-6">
-          <h1 className="w-[1064px] h-[171px] font-bold text-[72px] leading-[87.14px] tracking-[-0.02em] text-left">
+          <h1 className="w-[1064px] h-[72px] font-bold text-[72px] leading-[87.14px] tracking-[-0.02em] text-left">
             Your work, everywhere you are
           </h1>
           <p className=" w-[1064px] h-[60px] font-normal text-[18px] leading-[30px] tracking-[-0.02em] text-center ">
